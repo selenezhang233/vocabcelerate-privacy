@@ -138,6 +138,6 @@ If you have questions about this Privacy Policy, how Vocabcelerate handles infor
 
 **Application:** Vocabcelerate
 
-**Email:** YOUR_NEW_EMAIL@gmail.com
+**Email:**serenovalabs@gmail.com
 
 We will review privacy-related inquiries and respond as appropriate.
