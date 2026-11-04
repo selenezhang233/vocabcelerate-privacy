@@ -118,4 +118,26 @@ However, no method of electronic storage or transmission can guarantee absolute 
 
 ## 8. Children's Privacy
 
-Vocabcelerate
+Vocabcelerate is designed as a general vocabulary learning tool and is not specifically directed at children under 13.
+
+We do not knowingly collect directly identifying personal information from children through account registration, as the app does not provide account registration.
+
+If you believe information relating to a child has been collected inappropriately, please contact us.
+
+## 9. Changes to This Privacy Policy
+
+We may update this Privacy Policy to reflect changes to app functionality, data practices, or applicable requirements.
+
+The updated policy will be published on this page with a revised "Last updated" date.
+
+## 10. Contact Us
+
+If you have questions about this Privacy Policy, how Vocabcelerate handles information, or would like to request data deletion, please contact:
+
+**Serenova Labs**
+
+**Application:** Vocabcelerate
+
+**Email:** YOUR_NEW_EMAIL@gmail.com
+
+We will review privacy-related inquiries and respond as appropriate.
